@@ -1,0 +1,6 @@
+numpy
+matplotlib
+Adafruit_BBIO==1.1.1
+PyQt5==5.10
+pyvisa
+pyvisa-py
